@@ -1,7 +1,8 @@
 repo_name: Seddryck/MerryXmas
 report_id: a8f44dd6dfe456dddb96ce8a0a787e90
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-12T20:21:22+00:00'
+timestamp: '2024-01-05T08:47:51+00:00'
 requested_by: Seddryck
 provider: github
 branch: master
@@ -17,7 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: MerryXmas/MerryXmas.csproj
+  detection_source_url: https://github.com/Seddryck/MerryXmas/blob/master/MerryXmas/MerryXmas.csproj
   detection_source: MerryXmas/MerryXmas.csproj
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2015-11-18 21:40:25.000000000 Z
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/Seddryck/MerryXmas
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -42,7 +44,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
-  detection_source_url: MerryXmas/MerryXmas.csproj
+  detection_source_url: https://github.com/Seddryck/MerryXmas/blob/master/MerryXmas/MerryXmas.csproj
   detection_source: MerryXmas/MerryXmas.csproj
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2015-11-18 21:40:25.000000000 Z
@@ -54,6 +56,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Seddryck/MerryXmas
   detection_source: Repo Metadata
 - name: Visual Studio
   description: State-of-the-art tools and services that you can use to create great
@@ -64,6 +67,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/Seddryck/MerryXmas/blob/master/MerryXmas.sln
   detection_source: MerryXmas.sln
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2015-11-18 21:40:25.000000000 Z
